@@ -1,0 +1,1 @@
+add_library(tlib STATIC template_lib.cpp)
